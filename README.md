@@ -1,5 +1,6 @@
 # ✈️Skysweeper🎯
 
+![til](./Skysweeper.gif)
 
 ## About 
 Skysweeper is a endless scroller game made only using python's built-in libraries
